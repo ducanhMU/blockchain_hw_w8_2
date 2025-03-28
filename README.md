@@ -1,3 +1,6 @@
+1. Chỉnh sửa file /contracts/Token.sol
+2. Chỉnh sửa file /frontend/src/components/Dapp.js
+===============================================================
 # Hardhat Boilerplate
 
 This repository contains a sample project that you can use as the starting point
